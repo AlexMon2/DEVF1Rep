@@ -119,6 +119,12 @@ footer p{
     transition: width 2s;
     color: white;
     margin-left: 4px;
+    display: flex;
+    align-items: center;
+}
+
+#foto p{
+    margin-left: 40px;
 }
 
 #foto:hover{
@@ -132,6 +138,7 @@ footer p{
     transition: width 2s;
     color: white;
     margin-left: 4px;
+    display: flex;
 }
 
 #fran:hover{
